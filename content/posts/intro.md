@@ -7,17 +7,19 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 En lo personal, pienso que la cultura de un desarrolladxr se basa en los siguientes aspectos:
 
 # Respeto
-Me gustaria hacer incapie en esta virtud que cualquier persona debería tomar encuenta y aplicar el respeto a...
+Me gustaría hacer hincapíe en esta virtud que cualquier persona debería tomar en cuenta y aplicar el respeto a...
 
 - Los demás como personas.
 - Al tiempo.
 - Al esfuerzo y trabajo de los demás.
 - A las distintas opiniones, ideologías y formas de pensar.
-- A lo ageno.
+- A lo ajeno.
 
 Y así se puede generar una amplia lista a la que el respeto debería acompañar.
 
-Entre otros aspectos importantes que forman la cultura de un desarrollador estan:
+
+
+Entre otros aspectos importantes que forman la cultura de un desarrolladxr estan:
 - Humanidad
 - Humildad
 - Honestidad
